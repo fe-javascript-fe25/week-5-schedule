@@ -17,9 +17,7 @@ I denna modul kommer vi doppa fötterna framförallt i formulärvalidering, och 
 
 ### Presentationer
 
-* [Formulärvalidering och Felhantering](https://docs.google.com/presentation/d/1RVA1hDir8OvnKJzFGGqgt5hDh2wD7MN_/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [LocalStorage](https://docs.google.com/presentation/d/1MBXpQE8hD7OFEZc6qpYlBUoHB3Vq4rHV/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
-* [Gitstrategier](https://docs.google.com/presentation/d/1TmmrD4pt5M6N6-hiMZyLwCP-x-wEaBIi/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
