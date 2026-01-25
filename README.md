@@ -24,7 +24,7 @@ I denna modul kommer vi doppa fötterna framförallt i formulärvalidering, och 
 
 ### Lektionsrepon
 
-* [26 jan]()
+* [26 jan](https://github.com/fe-javascript-fe25/week-5-lecture-26-jan)
 * [28 jan]()
 
 ### Filmer
@@ -32,6 +32,10 @@ I denna modul kommer vi doppa fötterna framförallt i formulärvalidering, och 
   
 ### Länkar
 
+* [Felhantering W3Schools](https://www.w3schools.com/js/js_errors_intro.asp)
+* [LocalStorage W3Schools](https://www.w3schools.com/jsref/prop_win_localstorage.asp)
 
 ### Övningar
 
+* [JS Form Bootcamp](https://github.com/fe-javascript-fe25/week-5-exercise-form-bootcamp/tree/main)
+* [Tic Tac Toe - tredje etappen](https://github.com/fe-javascript-fe25/exercise-code-review-tic-tac-toe) - Veckans Code Review-uppgift! (Inte uppdaterad ännu!)
