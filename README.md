@@ -21,6 +21,8 @@ I denna modul kommer vi doppa fötterna framförallt i formulärvalidering, och 
 
 ### Inspelade föreläsningar
 
+* [Formulärvalidering & Felhantering, 26 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQCy6xqVc2yLT5RA3Xs5R8cfAfaD1jTf3G44JcI7xng3Sl0?e=3NPEiV)
+* [LocalStorage fördjupning, 26 jan]()
 
 ### Lektionsrepon
 
