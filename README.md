@@ -23,6 +23,8 @@ I denna modul kommer vi doppa fötterna framförallt i formulärvalidering, och 
 
 * [Formulärvalidering & Felhantering, 26 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQCy6xqVc2yLT5RA3Xs5R8cfAfaD1jTf3G44JcI7xng3Sl0?e=3NPEiV)
 * [LocalStorage fördjupning, 26 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQB-Q9Ra0HTlR4bJuJHguxKFAcrASjnIjgGfzXwpG0KUN0k?e=UI3OG5)
+* [Code Along Memory, 28 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQC8Z_2SQ6faSYEryUwO553bAboBKvwDhxoUT-ATAUJMTTM?e=J9f5Lr)
+* [Git Flow, 28 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQCz7XKvn-oKQqGIO4OsvUEhAVO_emjyuJs1K2Vs0Tts-5M?e=70SvP1)
 
 ### Lektionsrepon
 
