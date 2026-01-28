@@ -27,7 +27,7 @@ I denna modul kommer vi doppa fötterna framförallt i formulärvalidering, och 
 ### Lektionsrepon
 
 * [26 jan](https://github.com/fe-javascript-fe25/week-5-lecture-26-jan)
-* [28 jan]()
+* [28 jan](https://github.com/fe-javascript-fe25/week-5-lecture-28-jan)
 
 ### Filmer
 
