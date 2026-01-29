@@ -42,4 +42,4 @@ I denna modul kommer vi doppa fötterna framförallt i formulärvalidering, och 
 ### Övningar
 
 * [JS Form Bootcamp](https://github.com/fe-javascript-fe25/week-5-exercise-form-bootcamp/tree/main)
-* [Tic Tac Toe - tredje etappen](https://github.com/fe-javascript-fe25/exercise-code-review-tic-tac-toe) - Veckans Code Review-uppgift! (Inte uppdaterad ännu!)
+* [Tic Tac Toe - tredje etappen](https://github.com/fe-javascript-fe25/exercise-code-review-tic-tac-toe) - Veckans Code Review-uppgift!
